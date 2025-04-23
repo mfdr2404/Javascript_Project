@@ -22,7 +22,7 @@ myObj.FullName()
 
 for ( let i = 1; i <= 50; i++ ) {
     for(let j = 1; j <= 10 ; j++){
-        console.log(i + " X " + j + " = " + i*j)
+        console.log(i + " X " + j + " = " + i*j + "hello worlod")
     }
 }
 
